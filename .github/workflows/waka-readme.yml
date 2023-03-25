@@ -24,4 +24,3 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
           SHOW_LANGUAGE_PER_REPO: false
-          SYMBOL_VERSION: 3
