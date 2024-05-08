@@ -1,19 +1,21 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagahsyuja&theme=dracula&hide_border=true&border_radius=7)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Java                     30 mins             ████████████████████████░   94.44 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 
