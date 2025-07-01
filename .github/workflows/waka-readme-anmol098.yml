@@ -35,11 +35,16 @@ jobs:
             echo -e "\n$COUNTER_LINE" >> README.md
           fi
 
-      - name: Commit and push changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git pull origin master
-          git add README.md
-          git commit -m "Place counter"
-          git push
+          
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "Place counter"
+            git push
+          fi
+
