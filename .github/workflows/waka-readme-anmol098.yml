@@ -24,3 +24,13 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
           SHOW_LANGUAGE_PER_REPO: false
+      - name: Place Counter
+        run: |
+          echo "\n![](https://hit.yhype.me/github/profile?account_id=96577465)" >> README.md
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Place counter"
+          git push
