@@ -22,6 +22,3 @@ Linux                    21 hrs 56 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-\n![](https://hit.yhype.me/github/profile?account_id=96577465)
-![](https://hit.yhype.me/github/profile?account_id=96577465)
-![](https://hit.yhype.me/github/profile?account_id=96577465)
