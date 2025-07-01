@@ -30,7 +30,7 @@ jobs:
           fetch-depth: 0
       - name: Place Counter
         run: |
-          echo "\n![](https://hit.yhype.me/github/profile?account_id=96577465)" >> README.md
+          echo "![](https://hit.yhype.me/github/profile?account_id=96577465)" >> README.md
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
