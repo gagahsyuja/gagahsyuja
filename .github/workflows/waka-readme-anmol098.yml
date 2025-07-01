@@ -30,7 +30,11 @@ jobs:
           fetch-depth: 0
       - name: Place Counter
         run: |
-          echo "![](https://hit.yhype.me/github/profile?account_id=96577465)" >> README.md
+          COUNTER_LINE="![](https://hit.yhype.me/github/profile?account_id=96577465)"
+          if ! grep -Fxq "$COUNTER_LINE" README.md; then
+            echo -e "\n$COUNTER_LINE" >> README.md
+          fi
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
