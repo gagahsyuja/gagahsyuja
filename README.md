@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange&style=pixel)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C459%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2026%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
