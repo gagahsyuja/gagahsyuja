@@ -3,23 +3,23 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C838%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C838%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Terraform                5 hrs 52 mins       ███████████████░░░░░░░░░░   60.37 % 
-YAML                     3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-conf                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+YAML                     2 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.05 % 
+Terraform                2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.68 % 
+Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+conf                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 43 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
