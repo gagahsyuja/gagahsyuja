@@ -3,23 +3,19 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C913%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C913%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               15 mins             ███████████████████░░░░░░   74.07 % 
-HTML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+CSV                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
+Neovim                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 
