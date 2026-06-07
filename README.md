@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%2033%20mins-blue?style=flat)
-
 
 <!--END_SECTION:waka-->
 
