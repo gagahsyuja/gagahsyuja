@@ -3,21 +3,21 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C957%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C957%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    54 mins             ███████████████████░░░░░░   75.98 % 
-JSON                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    53 mins             ███████████████████░░░░░░   75.82 % 
+JSON                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Neovim                   42 mins             ███████████████░░░░░░░░░░   59.06 % 
-Claude Code              24 mins             █████████░░░░░░░░░░░░░░░░   34.62 % 
-Opencode Cli             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Neovim                   41 mins             ███████████████░░░░░░░░░░   58.78 % 
+Claude Code              24 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
+Opencode Cli             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
 Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
