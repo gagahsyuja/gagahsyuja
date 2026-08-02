@@ -11,25 +11,24 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     54 mins             ███████████░░░░░░░░░░░░░░   43.56 % 
-Other                    36 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-HTML                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+YAML                     54 mins             █████████████░░░░░░░░░░░░   51.89 % 
+HTML                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-Neovim                   1 hr 36 mins        ███████████████████░░░░░░   76.78 % 
-Antigravity CLI          24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Claude Code              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Neovim                   1 hr 20 mins        ███████████████████░░░░░░   77.14 % 
+Antigravity CLI          24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
 
 💻 Operating System: 
-Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (24.4%)
+⏱ AI Coding Time: 24 mins (22.86%)
 
 ✍️ 0 lines written by AI, 373 lines written by hand (0.0% AI-written)
 
@@ -37,12 +36,12 @@ Linux                    2 hrs 5 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 342 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,758 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
