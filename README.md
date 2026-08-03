@@ -11,24 +11,24 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     54 mins             █████████████░░░░░░░░░░░░   51.89 % 
-HTML                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+YAML                     54 mins             ████████████████░░░░░░░░░   62.34 % 
+HTML                     23 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Neovim                   1 hr 20 mins        ███████████████████░░░░░░   77.14 % 
-Antigravity CLI          24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Neovim                   1 hr 3 mins         ██████████████████░░░░░░░   72.82 % 
+Antigravity CLI          23 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (22.86%)
+⏱ AI Coding Time: 23 mins (27.18%)
 
 ✍️ 0 lines written by AI, 373 lines written by hand (0.0% AI-written)
 
@@ -36,11 +36,11 @@ Linux                    1 hr 44 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,758 characters per prompt
+📄 Detailed Prompter — average 1,328 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
