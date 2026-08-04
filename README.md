@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%206%20mins-blue?style=flat)
 
@@ -11,38 +11,23 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     54 mins             ████████████████░░░░░░░░░   62.34 % 
-HTML                     23 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML                     54 mins             ████████████████░░░░░░░░░   64.78 % 
+env                      20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Neovim                   1 hr 3 mins         ██████████████████░░░░░░░   72.82 % 
-Antigravity CLI          23 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Neovim                   1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (27.18%)
-
-✍️ 0 lines written by AI, 373 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,328 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
