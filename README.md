@@ -7,6 +7,29 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%206%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+env                      20 mins             █████████████████░░░░░░░░   66.25 % 
+YAML                     9 mins              ████████░░░░░░░░░░░░░░░░░   30.84 % 
+gitignore                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+Neovim                   31 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    31 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
