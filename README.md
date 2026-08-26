@@ -11,26 +11,26 @@
 
 ```text
 💬 Programming Languages: 
-Groovy                   4 hrs 58 mins       ██████████████░░░░░░░░░░░   55.91 % 
-Docker                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Groovy                   4 hrs 55 mins       █████████████████░░░░░░░░   66.55 % 
+Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 37 mins       ████████████████████████░   97.03 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Neovim                   7 hrs 8 mins        ████████████████████████░   96.43 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Linux                    8 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (4.08%)
+⏱ AI Coding Time: 21 mins (4.9%)
 
-✍️ 0 lines written by AI, 1,036 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 987 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
