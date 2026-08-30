@@ -11,26 +11,26 @@
 
 ```text
 💬 Programming Languages: 
-Groovy                   3 hrs 38 mins       ████████████████░░░░░░░░░   65.34 % 
-YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Docker                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+YAML                     41 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+Docker                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 5 mins        ███████████████████████░░   91.23 % 
-Claude Code              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Neovim                   1 hr 9 mins         ██████████████████░░░░░░░   70.42 % 
+Claude Code              29 mins             ███████░░░░░░░░░░░░░░░░░░   29.58 % 
 
 💻 Operating System: 
-Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (12.57%)
+⏱ AI Coding Time: 42 mins (42.39%)
 
-✍️ 25 lines written by AI, 963 lines written by hand (2.53% AI-written)
+✍️ 25 lines written by AI, 850 lines written by hand (2.86% AI-written)
 
 🔤 25,110 Input Tokens, 125 Output Tokens
 
@@ -39,10 +39,10 @@ Linux                    5 hrs 34 mins       ███████████�
 🧠 9 AI Sessions, 20 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.53% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 2.86% of written lines came from AI
 📝 Concise Prompter — average 101 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.7% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.25% of changed lines were hand-edited
 ```
 
 
