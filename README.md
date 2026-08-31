@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2047%20mins-blue?style=flat)
 
@@ -11,38 +11,38 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     41 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
-Docker                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+YAML                     31 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
+Docker                   22 mins             ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Neovim                   1 hr 9 mins         ██████████████████░░░░░░░   70.42 % 
-Claude Code              29 mins             ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Neovim                   57 mins             █████████████████████░░░░   82.60 % 
+Claude Code              12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 
 💻 Operating System: 
-Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (42.39%)
+⏱ AI Coding Time: 18 mins (26.99%)
 
-✍️ 25 lines written by AI, 850 lines written by hand (2.86% AI-written)
+✍️ 25 lines written by AI, 10 lines written by hand (71.43% AI-written)
 
 🔤 25,110 Input Tokens, 125 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 20 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.86% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.25% of changed lines were hand-edited
+🤖 AI-Driven — 71.43% of written lines came from AI
+📚 Verbose Prompter — average 1,592 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 28.57% of changed lines were hand-edited
 ```
 
 
