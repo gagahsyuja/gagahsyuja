@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2047%20mins-blue?style=flat)
 
@@ -11,13 +11,15 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     13 mins             █████████████████████████   100.00 % 
+YAML                     13 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
+JavaScript               12 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
+PHP                      10 mins             ███████░░░░░░░░░░░░░░░░░░   28.53 % 
 
 🔥 Editors: 
-Neovim                   13 mins             █████████████████████████   100.00 % 
+Neovim                   35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
