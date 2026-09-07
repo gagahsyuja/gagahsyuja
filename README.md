@@ -11,15 +11,14 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     13 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-JavaScript               12 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
-PHP                      10 mins             ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+JavaScript               12 mins             ██████████████░░░░░░░░░░░   54.72 % 
+PHP                      10 mins             ███████████░░░░░░░░░░░░░░   45.28 % 
 
 🔥 Editors: 
-Neovim                   35 mins             █████████████████████████   100.00 % 
+Neovim                   22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+Linux                    22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
