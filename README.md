@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C929%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2047%20mins-blue?style=flat)
 
@@ -11,17 +11,17 @@
 
 ```text
 💬 Programming Languages: 
-TOML                     1 hr 6 mins         ████████████░░░░░░░░░░░░░   47.60 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-openvpn                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-PHP                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TOML                     1 hr 6 mins         ███████████░░░░░░░░░░░░░░   44.95 % 
+Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+openvpn                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+pem                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 18 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
