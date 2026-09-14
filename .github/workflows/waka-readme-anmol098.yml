@@ -24,6 +24,8 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_UPDATED_DATE: false
           SHOW_LANGUAGE_PER_REPO: false
+          SHOW_AI_CODE_TIME: false
+          SHOW_AI_CODING: false
       - name: Checkout code
         uses: actions/checkout@v4
         with:
