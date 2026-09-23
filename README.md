@@ -3,7 +3,24 @@
 ![](https://komarev.com/ghpvc/?username=gagahsyuja&color=orange)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C945%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%206%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Rust                     4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Docker                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Svelte                   2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+YAML                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+
+🔥 Editors: 
+Neovim                   16 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    16 hrs 33 mins      █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
